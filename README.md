@@ -1,4 +1,6 @@
 # stack-ar
 Unity game
 
-use unity 2k17
+
+### Trello
+https://trello.com/b/Zs6fcct6/stack-ar
