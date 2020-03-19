@@ -838,8 +838,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameMode: {fileID: 0}
-  playStoreURL: https://assetstore.unity.com/packages/templates/packs/stack-the-blocks-ar-mode-148062
-  appStoreURL: https://assetstore.unity.com/packages/templates/packs/stack-the-blocks-ar-mode-148062
+  playStoreURL: https://www.instagram.com
+  appStoreURL: https://www.instagram.com
   OnGameIntialized:
     m_PersistentCalls:
       m_Calls: []
@@ -4742,7 +4742,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: STACK THE BLOCKS
+  m_Text: Stack AR
 --- !u!222 &1491921400
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4884,7 +4884,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 556e15b7c3ae0418d976f1e559bca97c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 38cfd7bce9c934504bded974c1a745cb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -80,7 +80,7 @@ Material:
     - _UseUIAlphaClip: 0
     - _ZWrite: 1
     m_Colors:
-    - _BottomColor: {r: 0.9960785, g: 0.54509807, b: 0.37254903, a: 1}
+    - _BottomColor: {r: 0.500672, g: 0.47756588, b: 0.42017868, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _TopColor: {r: 0.9921569, g: 0.86666673, b: 0.48627454, a: 1}
+    - _TopColor: {r: 0.27145723, g: 0.34681374, b: 0.37386712, a: 1}
